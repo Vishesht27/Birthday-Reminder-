@@ -1,5 +1,5 @@
 ## Birthday Reminder
-<img src="birtdhay2.png" >
+<img src="birthday2.png" >
 
-It is web responsive too !
+# It is web responsive too !
 <img src = "bday1.png">
